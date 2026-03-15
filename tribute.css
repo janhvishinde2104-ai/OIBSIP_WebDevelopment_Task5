@@ -1,0 +1,57 @@
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to bottom,#111,#000);
+    color:gold;
+    text-align:center;
+}
+
+/* Main container */
+.container{
+    width:70%;
+    margin:auto;
+    padding:40px;
+}
+
+/* Title */
+h1{
+    font-size:48px;
+    margin-bottom:5px;
+}
+
+/* Subtitle */
+.subtitle{
+    color:#ccc;
+    margin-bottom:30px;
+}
+
+/* Image styling */
+img{
+    height: fit-content;
+    width: 500px;;
+    border-radius:12px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.8);
+    margin:20px 0;
+}
+
+/* Section titles */
+h2{
+    margin-top:40px;
+    font-size:28px;
+}
+
+/* Paragraph */
+p{
+    width:70%;
+    margin:auto;
+    line-height:1.6;
+    color:#ddd;
+}
+
+/* Achievements list */
+ul{
+    list-style-type:square;
+    width:40%;
+    margin:20px auto;
+    text-align:left;
+}
